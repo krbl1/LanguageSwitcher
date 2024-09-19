@@ -11,8 +11,8 @@
 
 ## Установка
 1. Скачайте и установите [AutoHotkey 1.1](https://www.autohotkey.com/download/ahk-install.exe).
-2. Скачайте скрипт [script_ls.ahk](script_ls.ahk) из репозитория GitHub.
-3. Сохраните файл `.ahk` на вашем компьютере.
+2. Скачайте скрипт ['script_ls.ahk'](script_ls.ahk) из репозитория GitHub.
+3. Сохраните файл `script_ls.ahk` на вашем компьютере.
 
 ## Автозапуск
 Чтобы скрипт запускался автоматически при старте Windows, выполните следующие шаги:
