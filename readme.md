@@ -10,7 +10,7 @@
 - Легкое использование с помощью горячих клавиш `Ctrl + Shift + L`.
 
 ## Установка
-1. Скачайте и установите AutoHotkey 1.1 (https://www.autohotkey.com/download/ahk-install.exe).
+1. Скачайте и установите [AutoHotkey 1.1](https://www.autohotkey.com/download/ahk-install.exe).
 2. Скачайте скрипт script_ls.ahk из репозитория GitHub.
 3. Сохраните файл `.ahk` на вашем компьютере.
 
