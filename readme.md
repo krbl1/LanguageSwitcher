@@ -32,4 +32,4 @@
 
 
  Версия для MacOs в процессе.
-Вопросы и пожелания можно на Хабре [@KPbl_love] (https://habr.com/ru/users/KPbl_love/) 
+Вопросы и пожелания можно на Хабре [@KPbl_love](https://habr.com/ru/users/KPbl_love/) 
