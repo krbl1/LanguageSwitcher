@@ -11,7 +11,9 @@
 
 ## Установка для Windows
 1. Скачайте [language_switcher.exe](language_switcher.exe) и запустите его.
+   
 Если вы хотите убедиться в надежности скрипта, вы можете скачать скрипт и перерд установкой проверить содержимое на надежность:
+
 1. Скачайте и установите [AutoHotkey 1.1](https://www.autohotkey.com/download/ahk-install.exe).
 2. Скачайте скрипт [script_ls.ahk](script_ls.ahk) из репозитория GitHub.
 3. Сохраните файл `script_ls.ahk` на вашем компьютере.
